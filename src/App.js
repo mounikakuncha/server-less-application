@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      this is fresh react application.
+      this is fresh amplify application.
     </div>
   );
 }
